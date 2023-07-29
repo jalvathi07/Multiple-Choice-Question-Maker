@@ -1,0 +1,13 @@
+c:\users\kanmani\documents\visual studio 2012\Projects\OOP_MCQ\OOP_MCQ\bin\Debug\OOP_MCQ.exe.config
+c:\users\kanmani\documents\visual studio 2012\Projects\OOP_MCQ\OOP_MCQ\bin\Debug\OOP_MCQ.exe
+c:\users\kanmani\documents\visual studio 2012\Projects\OOP_MCQ\OOP_MCQ\bin\Debug\OOP_MCQ.pdb
+c:\users\kanmani\documents\visual studio 2012\Projects\OOP_MCQ\OOP_MCQ\obj\Debug\OOP_MCQ.csprojResolveAssemblyReference.cache
+c:\users\kanmani\documents\visual studio 2012\Projects\OOP_MCQ\OOP_MCQ\obj\Debug\OOP_MCQ.Form1.resources
+c:\users\kanmani\documents\visual studio 2012\Projects\OOP_MCQ\OOP_MCQ\obj\Debug\OOP_MCQ.Properties.Resources.resources
+c:\users\kanmani\documents\visual studio 2012\Projects\OOP_MCQ\OOP_MCQ\obj\Debug\OOP_MCQ.csproj.GenerateResource.Cache
+c:\users\kanmani\documents\visual studio 2012\Projects\OOP_MCQ\OOP_MCQ\obj\Debug\OOP_MCQ.exe
+c:\users\kanmani\documents\visual studio 2012\Projects\OOP_MCQ\OOP_MCQ\obj\Debug\OOP_MCQ.pdb
+c:\users\kanmani\documents\visual studio 2012\Projects\OOP_MCQ\OOP_MCQ\obj\Debug\OOP_MCQ.Form2.resources
+c:\users\kanmani\documents\visual studio 2012\Projects\OOP_MCQ\OOP_MCQ\obj\Debug\OOP_MCQ.Form3.resources
+c:\users\kanmani\documents\visual studio 2012\Projects\OOP_MCQ\OOP_MCQ\obj\Debug\OOP_MCQ.Form4.resources
+C:\Users\kanmani\documents\visual studio 2012\Projects\OOP_MCQ\OOP_MCQ\obj\Debug\OOP_MCQ.Form5.resources

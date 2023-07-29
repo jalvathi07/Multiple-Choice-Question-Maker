@@ -1,0 +1,13 @@
+C:\Users\kanmani\documents\visual studio 2012\Projects\OOP_MCQ\OOP_MCQ\bin\Release\OOP_MCQ.exe.config
+C:\Users\kanmani\documents\visual studio 2012\Projects\OOP_MCQ\OOP_MCQ\bin\Release\OOP_MCQ.exe
+C:\Users\kanmani\documents\visual studio 2012\Projects\OOP_MCQ\OOP_MCQ\bin\Release\OOP_MCQ.pdb
+C:\Users\kanmani\documents\visual studio 2012\Projects\OOP_MCQ\OOP_MCQ\obj\Release\OOP_MCQ.csprojResolveAssemblyReference.cache
+C:\Users\kanmani\documents\visual studio 2012\Projects\OOP_MCQ\OOP_MCQ\obj\Release\OOP_MCQ.Form1.resources
+C:\Users\kanmani\documents\visual studio 2012\Projects\OOP_MCQ\OOP_MCQ\obj\Release\OOP_MCQ.Form2.resources
+C:\Users\kanmani\documents\visual studio 2012\Projects\OOP_MCQ\OOP_MCQ\obj\Release\OOP_MCQ.Form3.resources
+C:\Users\kanmani\documents\visual studio 2012\Projects\OOP_MCQ\OOP_MCQ\obj\Release\OOP_MCQ.Form4.resources
+C:\Users\kanmani\documents\visual studio 2012\Projects\OOP_MCQ\OOP_MCQ\obj\Release\OOP_MCQ.Form5.resources
+C:\Users\kanmani\documents\visual studio 2012\Projects\OOP_MCQ\OOP_MCQ\obj\Release\OOP_MCQ.Properties.Resources.resources
+C:\Users\kanmani\documents\visual studio 2012\Projects\OOP_MCQ\OOP_MCQ\obj\Release\OOP_MCQ.csproj.GenerateResource.Cache
+C:\Users\kanmani\documents\visual studio 2012\Projects\OOP_MCQ\OOP_MCQ\obj\Release\OOP_MCQ.exe
+C:\Users\kanmani\documents\visual studio 2012\Projects\OOP_MCQ\OOP_MCQ\obj\Release\OOP_MCQ.pdb
