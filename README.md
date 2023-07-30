@@ -1,4 +1,4 @@
-                                              MULTPLE CHOICE QUESTION
+                                             MULTPLE CHOICE QUESTION
 OBJECTIVE:
         	Produce question and set of options, check the correct answers and validate marks for those answers.
  
