@@ -1,8 +1,10 @@
-#MULTPLE CHOICE QUESTION
-##OBJECTIVE:
+# MULTPLE CHOICE QUESTION
+
+## OBJECTIVE:
+
 Produce question and set of options, check the correct answers and validate marks for those answers.
  
-##CATEGORY:
+## CATEGORY:
 - There are three levels in question follows;
 1.EASY
 2.MEDIUM
@@ -10,15 +12,17 @@ Produce question and set of options, check the correct answers and validate mark
 - Each level contains 5 questions.
 - Each question has 3 options.
 
-##INSTRUCTIONS:
--First there is a login page receives NAME and ROLLNO.
--After the process of login, an instruction page you have to agree with that.
--Then, the category page contains three level instructed above.
--Choose one of them and answer the following questions
--If the question is not answered it declared as "NOT ANSWERED".
+## INSTRUCTIONS:
+
+- First there is a login page receives NAME and ROLLNO.
+- After the process of login, an instruction page you have to agree with that.
+- Then, the category page contains three level instructed above.
+- Choose one of them and answer the following questions
+- If the question is not answered it declared as "NOT ANSWERED".
 - Last, validate marks for your chosen answers.
 
-##CLASSES USED:
+## CLASSES USED:
+
 - Question Class:
                      Reads the questions from the predefined categorized files.
 
@@ -28,17 +32,20 @@ Produce question and set of options, check the correct answers and validate mark
 - Validation Class:
                     Checks the selected answers from the student and validate marks for correct answers.
 
-##PROPERTIES USED IN CLASSES:
-QUESTION CLASS:
+## PROPERTIES USED IN CLASSES:
+
+## QUESTION CLASS:
 - ques //stores the loaded question as a string
 - op1,op2,op3 //stores the 3 options.
 - ans //store the correct answer of the current question.
 
-##STUDENT CLASS:
+## STUDENT CLASS:
+
 - name //reads the user's name from the login page.
 - rollno //reads the user's roll number from the login page.
 
-##VALIDATION CLASS:          
+## VALIDATION CLASS: 
+
 - mark //stores the mark.
   
 
